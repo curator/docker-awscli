@@ -1,4 +1,4 @@
-docker-awscli
+docker-awscli now with more updating
 =============
 
 Run aws-cli anywhere without any of the dependencies
